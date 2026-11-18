@@ -1,5 +1,10 @@
 # REAPER MCP Server
 
+> **KokkaReaperMCP** is the Kokka & Company fork of
+> [bonfire-systems/reaper-mcp](https://github.com/bonfire-systems/reaper-mcp).
+> We add features here and send general fixes back upstream. The package,
+> module and command names are unchanged.
+
 A Model Context Protocol (MCP) server that enables AI agents to control REAPER DAW — 61 tools covering project management, tracks, track templates, MIDI, FX, mixing, mastering, rendering, and audio analysis.
 
 ## Requirements
