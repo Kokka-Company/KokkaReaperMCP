@@ -38,3 +38,6 @@ Thumbs.db
 # REAPER specific
 *.RPP-bak
 *.reapeaks
+
+# Per-artist type beat workspace (local only)
+/type_beats/
